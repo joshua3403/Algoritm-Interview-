@@ -21,9 +21,6 @@
     <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -32,22 +29,8 @@
     <ClCompile Include="Main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2. 자연수의 합.cpp">
+    <ClCompile Include="1부터 N까지 M배수의 합.cpp">
       <Filter>소스 파일\코드 구현력 기르기</Filter>
     </ClCompile>
-    <ClCompile Include="3. 진약수의 합.cpp">
-      <Filter>소스 파일\코드 구현력 기르기</Filter>
-    </ClCompile>
-    <ClCompile Include="4. 나이차이.cpp">
-      <Filter>소스 파일\코드 구현력 기르기</Filter>
-    </ClCompile>
-    <ClCompile Include="1. 1부터 N까지 M배수의 합.cpp">
-      <Filter>소스 파일\코드 구현력 기르기</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="input.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
   </ItemGroup>
 </Project>
