@@ -59,7 +59,13 @@
     <ClCompile Include="08. 올바른 괄호.cpp">
       <Filter>소스 파일\코드 구현력 기르기</Filter>
     </ClCompile>
-    <ClCompile Include="모두의 약수.cpp">
+    <ClCompile Include="09. 모두의 약수.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 자릿수의 합.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 숫자의 총 개수.cpp">
       <Filter>소스 파일\코드 구현력 기르기</Filter>
     </ClCompile>
   </ItemGroup>
