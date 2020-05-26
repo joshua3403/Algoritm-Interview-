@@ -45,3 +45,28 @@ int digit_sum(int x)
 
 	return result;
 }
+
+// 강의 답안
+
+int main()
+{
+	int n, num, i, sum, max = -2147000000, res;
+	scanf("%d", &n);
+
+	for (i = 0; i < n; i++)
+	{
+		scanf("%d", &num);
+		sum = digit_sum(num);
+		if (sum > max)
+		{
+			max = sum;
+			res = num;
+		}
+		else if (sum == max)
+		{
+			if (num > res) res = num;
+		}
+	}
+	return 0;
+}
+
