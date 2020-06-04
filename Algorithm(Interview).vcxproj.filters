@@ -80,6 +80,21 @@
     <ClCompile Include="15. 소수의 개수.cpp">
       <Filter>소스 파일\코드 구현력 기르기</Filter>
     </ClCompile>
+    <ClCompile Include="16. Anagram.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 선생님 퀴즈.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="18. 층간소음.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="19. 분노 유발자.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="20. 가위 바위 보.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.ipch
+*.tlog
+*.tlog
+x64/Debug/Algorith.FA620056.tlog/CL.read.1.tlog
