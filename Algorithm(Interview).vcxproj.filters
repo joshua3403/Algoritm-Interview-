@@ -95,6 +95,12 @@
     <ClCompile Include="20. 가위 바위 보.cpp">
       <Filter>소스 파일\코드 구현력 기르기</Filter>
     </ClCompile>
+    <ClCompile Include="21. 카드게임.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="22. 온도의 최대값.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
