@@ -158,6 +158,9 @@
     <ClCompile Include="40. 교집합(투포인트 알고리즘).cpp">
       <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
     </ClCompile>
+    <ClCompile Include="41. 연속된 두 자연수의 합.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
