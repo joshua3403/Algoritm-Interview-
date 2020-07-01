@@ -26,7 +26,7 @@ int main()
 				result = input;
 		}
 	}
-	
+
 	printf("%d", result);
 
 	return 0;
@@ -69,4 +69,3 @@ int main()
 	}
 	return 0;
 }
-

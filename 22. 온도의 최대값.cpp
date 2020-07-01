@@ -20,7 +20,6 @@ int main()
 			if (result > max)
 				max = result;
 		}
-
 	}
 	printf("%d", max);
 	return 0;

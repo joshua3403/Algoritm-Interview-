@@ -4,7 +4,7 @@ int reverse(int x);
 bool isPrime(int x);
 
 //int main()
-//{	
+//{
 //
 //	int input = 0;
 //	scanf("%d", &input);

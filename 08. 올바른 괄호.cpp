@@ -34,8 +34,6 @@ int main()
 		printf("YES");
 	else
 		printf("NO");
-
-
 }
 //
 //// 강의 답안

@@ -1,6 +1,5 @@
 #include "stdafx.h"
 
-
 // 내 답안
 int main()
 {
@@ -16,7 +15,7 @@ int main()
 
 	// 자릿수의 합
 	int sum = 0;
-	
+
 	while (sum + count < input)
 	{
 		result += count * flag;

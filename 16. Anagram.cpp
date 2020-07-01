@@ -10,10 +10,8 @@ int main()
 	scanf("%s", &input1);
 	scanf("%s", &input2);
 
-	
 	int len1 = strlen(input1);
 	int len2 = strlen(input2);
-
 
 	for (int i = 0; i < len1; i++)
 	{
@@ -28,7 +26,6 @@ int main()
 			printf("NO");
 			return 0;
 		}
-
 	}
 
 	printf("YES");

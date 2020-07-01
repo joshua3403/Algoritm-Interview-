@@ -8,3 +8,4 @@
 #include <algorithm>
 #include <ctype.h>
 #include <vector>
+#include <list>

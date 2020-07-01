@@ -65,7 +65,6 @@ int main()
 			max = ch[i];
 			res = i;
 		}
-
 	}
 	return 0;
 }

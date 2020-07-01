@@ -28,7 +28,6 @@ int main()
 					findnumbers[index] = numbers[j];
 					index++;
 				}
-
 			}
 		}
 	}
@@ -41,8 +40,7 @@ int main()
 		}
 		else
 		{
-			result += (findnumbers[temp]-48) * pow(10,(index - temp - 1));
-
+			result += (findnumbers[temp] - 48) * pow(10, (index - temp - 1));
 		}
 		temp--;
 	}

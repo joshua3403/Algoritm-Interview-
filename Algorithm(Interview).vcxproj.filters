@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\코드 구현력 기르기">
       <UniqueIdentifier>{26335cbf-c173-4c3c-b808-c55a0597b0d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘">
+      <UniqueIdentifier>{490277d6-9071-4b89-bb16-4384b8dd7768}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -100,6 +103,60 @@
     </ClCompile>
     <ClCompile Include="22. 온도의 최대값.cpp">
       <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="23. 연속 부분 증가수열.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Jolly Jumpers.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="25. 석차 구하기.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="26. 마라톤.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="27. N!의 표현법.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="28. N!에서 0의 개수.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="29. 3의 개수(small).cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="30. 3의 개수(large).cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="31. 탄화수소 질량 구하기.cpp">
+      <Filter>소스 파일\코드 구현력 기르기</Filter>
+    </ClCompile>
+    <ClCompile Include="32. 선택 정렬.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="33. 3등의 성적.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="34. 버블정렬.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="35. Special Sort(구글).cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="36. 선택정렬.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="37. Least Recently Used.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="38. Inversion Sequence.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="39. 두 배열 합치기.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="40. 교집합(투포인트 알고리즘).cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

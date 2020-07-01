@@ -36,7 +36,7 @@ int main()
 	for (i = 2; i <= n; i++)
 	{
 		flag = 1;
-		for (j = 2; j*j <= i; j++)
+		for (j = 2; j * j <= i; j++)
 		{
 			if (i % j == 0)
 			{
