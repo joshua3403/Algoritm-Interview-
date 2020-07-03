@@ -161,6 +161,12 @@
     <ClCompile Include="41. 연속된 두 자연수의 합.cpp">
       <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
     </ClCompile>
+    <ClCompile Include="42. 이분검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="42. 뮤직비디오(이분검색 응용).cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
