@@ -191,6 +191,9 @@
     <ClCompile Include="51. 영지선택(large).cpp">
       <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
     </ClCompile>
+    <ClCompile Include="52. Ugly Numbers.cpp">
+      <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

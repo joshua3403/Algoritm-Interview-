@@ -1,2 +1,0 @@
-E:\C++\Algorithm(Interview)\Algoritm-Interview-\x64\Debug\Algorithm(Interview).exe
-E:\C++\Algorithm(Interview)\Algoritm-Interview-\x64\Debug\Algorithm(Interview).pdb
