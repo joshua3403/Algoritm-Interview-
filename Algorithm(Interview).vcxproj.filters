@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘">
       <UniqueIdentifier>{490277d6-9071-4b89-bb16-4384b8dd7768}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29">
+      <UniqueIdentifier>{6e8d0551-4719-4e70-8f16-fcaef1a306a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -202,6 +205,12 @@
     </ClCompile>
     <ClCompile Include="55. 기차운행(stack운용).cpp">
       <Filter>소스 파일\정렬&amp;이분탐색%28결정 알고리즘%29&amp;투포인트알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="56. 재귀 함수 분석.cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="57. 재귀함수 이진 출력.cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
