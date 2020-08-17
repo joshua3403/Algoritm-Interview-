@@ -19,22 +19,22 @@ int main()
 	return 0;
 }
 
-// 강의 답안
-void D(int x)
-{
-	if (x == 0)
-		return;
-	else
-	{
-		D(x / 2);
-		printf("%d", x % 2);
-	}
-}
-
-int main()
-{
-	int x;
-	scanf("%d", &x);
-	D(x);
-	return 0;
-}
+//// 강의 답안
+//void D(int x)
+//{
+//	if (x == 0)
+//		return;
+//	else
+//	{
+//		D(x / 2);
+//		printf("%d", x % 2);
+//	}
+//}
+//
+//int main()
+//{
+//	int x;
+//	scanf("%d", &x);
+//	D(x);
+//	return 0;
+//}

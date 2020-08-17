@@ -212,6 +212,12 @@
     <ClCompile Include="57. 재귀함수 이진 출력.cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="58. 이진트리 깊이우선탐색(DPS).cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="59. 부분집합(DFS).cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
