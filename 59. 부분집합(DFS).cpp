@@ -1,8 +1,7 @@
 #include "stdafx.h"
 
 int n;
-
-int* array = new int[n + 1];
+int* array;
 
 void Print(int x)
 {
@@ -29,6 +28,8 @@ void Print(int x)
 int main()
 {
 	scanf("%d", &n);
+	array = new int[n + 1];
+
 	Print(1);
 	delete[] array;
 	return 0;
