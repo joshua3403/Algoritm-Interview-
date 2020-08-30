@@ -224,6 +224,9 @@
     <ClCompile Include="61. 특정수 만들기(DFS, MS 인터뷰).cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="62. 병합정렬.cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
