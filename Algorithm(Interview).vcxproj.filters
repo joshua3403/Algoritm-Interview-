@@ -242,6 +242,12 @@
     <ClCompile Include="67. 최소비용(DFS 인접행렬).cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="69. 이진트리 넓이 우선 탐색%28BFS%29.cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="68. 최소비용(DFS 가중치 방향그래프 인접리스트).cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
