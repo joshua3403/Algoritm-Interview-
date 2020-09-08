@@ -251,6 +251,9 @@
     <ClCompile Include="70. 그래프 최단거리(BFS).cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="71. 송아지 찾기(BFS, 상대트리탐색).cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
