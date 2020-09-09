@@ -260,6 +260,9 @@
     <ClCompile Include="73.74. 최대힙,최소힙%28우선순위 큐%29.cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="75. 최대 수입 스케쥴(priority_queue 응용문제).cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
