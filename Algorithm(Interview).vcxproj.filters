@@ -272,6 +272,9 @@
     <ClCompile Include="78. 원더랜드(Kruskal MST 알고리즘 Union,Find 활용).cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="79. 원더랜드(Prim MST 알고리즘, Priority_Queue활용).cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
