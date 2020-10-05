@@ -290,6 +290,9 @@
     <ClCompile Include="84. 휴가(DFS 활용).cpp">
       <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="85. 수식 만들기.cpp">
+      <Filter>소스 파일\재귀 &amp; 깊이/넓이 우선탐색%28DFS, BFS%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
